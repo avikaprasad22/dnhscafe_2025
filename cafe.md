@@ -1,10 +1,9 @@
 ---
 layout: post
-title: My Space 
-description: My Interests
+title: DNHSCafe  
+description: What is DNHSCafe?
 hide: true
 menu: nav/home.html
-<<<<<<< HEAD
 ---
 
 <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; background: linear-gradient(to right, #e4d4c7, #c3a68e); padding: 20px; border-radius: 10px;">
